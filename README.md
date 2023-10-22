@@ -1,4 +1,4 @@
-# 学习进度仓库<br>
+## study_recording<br>
 **study_recording** 将作为7qisui的学习知识的进度进度仓库🙌<br>
 每天都会向仓库中添加新东西😘😘😘<br>
 主题内容是记录英语和高数的学习进度😊😊😊<br>
